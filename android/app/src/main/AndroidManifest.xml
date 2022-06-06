@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.sliver_list_example">
    <application
-        android:label="sliver_list_example"
+        android:label="Sliver List Example"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
